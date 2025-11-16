@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm a Developer and Student.
+### Hi there! 👋 I'm Aurora.
 
 * 👩‍💻 **Software Developer** @ **Gruppo SINAPSI Srl**
 * 📚 **M.Sc. Student in Computer Science** @ University of Parma
