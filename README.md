@@ -18,9 +18,7 @@
 * 📚 **M.Sc. Student in Computer Science** @ University of Parma
 * 🎓 **B.Sc. in Computer Science** @ University of Parma
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+---
 
 <div align="center">
   
@@ -31,5 +29,9 @@
   <a href="mailto:aurora.guida@outlook.com">
     <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <br/><br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Night City Animation" />
   
 </div>
