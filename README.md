@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="mailto:aurora.guida@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=yokxi&label=Views&color=0078D4&style=flat-square" alt="visitor count" />
