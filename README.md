@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aurora%20Guida&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=yokxi%20-%20Software%20Developer&descSize=25&descAlignY=60" width="100%" />
+
 <div align="center">
 
   <a href="https://git.io/typing-svg">
