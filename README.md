@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aurora!;Software+Developer;M.Sc.+Student+in+Computer+Science;Passionate+about+Full+Stack+Dev" alt="Typing SVG" />
   </a>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TUO-USERNAME&theme=radical" alt="3D Contrib" />
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=yokxi&theme=flat&no-frame=true&margin-w=15" alt="yokxi trophies" />
 
 </div>
 
@@ -31,13 +33,21 @@
 
 ---
 
+### 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yokxi&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokxi&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+</div>
+
+---
+
 ### 📫 Connect with me
 
 <div align="center">
   <a href="mailto:aurora.guida@outlook.com">
-    <img src="https://img.shields.io/badge/Email-aurora.guida%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/tuo-profilo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=yokxi&label=Profile%20Views&color=blue&style=flat" alt="visitor count" />
 </div>
