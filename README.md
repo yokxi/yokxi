@@ -20,8 +20,6 @@
 
 ---
 
-### 📫 Connect with me
-
 <div align="center">
   
   <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" alt="Gengar Sprite" width="50" />
