@@ -1,24 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aurora%20Guida&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=yokxi%20-%20Software%20Developer&descSize=25&descAlignY=60" width="100%" />
-
 <div align="center">
-
-  <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aurora!;Software+Developer;M.Sc.+Student+in+Computer+Science;Passionate+about+Full+Stack+Dev" alt="Typing SVG" />
   </a>
 
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=yokxi&theme=flat&no-frame=true&margin-w=15" alt="yokxi trophies" />
-
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/yokxi/yokxi/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
 </div>
 
----
+<br/>
 
 ### 👩‍💻 About Me
 
@@ -41,37 +29,18 @@
 
 ---
 
-### 📊 Github Stats & Analysis
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yokxi&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokxi&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yokxi&theme=radical&hide_border=true" height="160" alt="streak stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yokxi&bg_color=141321&color=2196f3&line=2196f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
-</div>
-
----
-
-### 🧠 Daily Inspiration
-
-<div align="center">
-    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=true" alt="programming quote" />
-</div>
-
----
-
 ### 📫 Connect with me
 
 <div align="center">
   <a href="mailto:aurora.guida@outlook.com">
     <img src="https://img.shields.io/badge/Email-aurora.guida%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yokxi&label=Profile%20Views&color=blue&style=flat" alt="visitor count" />
+  
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
