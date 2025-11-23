@@ -1,4 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Aurora%20Guida&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=yokxi%20-%20Software%20Developer&descSize=25&descAlignY=60" width="100%" />
+
 <div align="center">
+
+  <br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aurora!;Software+Developer;M.Sc.+Student+in+Computer+Science;Passionate+about+Full+Stack+Dev" alt="Typing SVG" />
@@ -44,6 +48,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokxi&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yokxi&theme=radical&hide_border=true" height="160" alt="streak stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yokxi&bg_color=141321&color=2196f3&line=2196f3&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
 
 ---
@@ -64,3 +73,5 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=yokxi&label=Profile%20Views&color=blue&style=flat" alt="visitor count" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
