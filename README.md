@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Aurora%20Guida&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=yokxi%20-%20Software%20Developer&descSize=25&descAlignY=60" width="100%" />
-
 <div align="center">
 
   <a href="https://git.io/typing-svg">
@@ -50,7 +48,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
