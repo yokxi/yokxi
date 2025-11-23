@@ -8,6 +8,10 @@
 
   <img src="https://github-profile-trophy.vercel.app/?username=yokxi&theme=flat&no-frame=true&margin-w=15" alt="yokxi trophies" />
 
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/yokxi/yokxi/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
 </div>
 
 ---
@@ -33,11 +37,21 @@
 
 ---
 
-### 📊 Github Stats
+### 📊 Github Stats & Analysis
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yokxi&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokxi&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yokxi&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokxi&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yokxi&theme=radical&hide_border=true" height="160" alt="streak stats" />
+</div>
+
+---
+
+### 🧠 Daily Inspiration
+
+<div align="center">
+    <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=true" alt="programming quote" />
 </div>
 
 ---
@@ -46,8 +60,7 @@
 
 <div align="center">
   <a href="mailto:aurora.guida@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-aurora.guida%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  
   <img src="https://komarev.com/ghpvc/?username=yokxi&label=Profile%20Views&color=blue&style=flat" alt="visitor count" />
 </div>
