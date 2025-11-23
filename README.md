@@ -4,6 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aurora!;Software+Developer;M.Sc.+Student+in+Computer+Science;Passionate+about+Full+Stack+Dev" alt="Typing SVG" />
   </a>
 
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/yokxi/yokxi/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
 </div>
 
 <br/>
@@ -13,15 +17,6 @@
 * 💼 **Software Developer** @ **Gruppo SINAPSI Srl**
 * 📚 **M.Sc. Student in Computer Science** @ University of Parma
 * 🎓 **B.Sc. in Computer Science** @ University of Parma
-
----
-
-### 🎮 Let's Play Tic-Tac-Toe!
-
-<div align="center">
-  <p>Click on a cell to make a move. The game runs on GitHub Actions!</p>
-  
-  </div>
 
 ---
 
