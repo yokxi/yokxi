@@ -12,6 +12,9 @@ jobs:
       contents: write
       issues: write
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
       - name: Deploy the Game
         uses: im-avishek/ttt-readme@v2
         with:
