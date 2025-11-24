@@ -12,7 +12,9 @@
 
 <br/>
 
-### 👩‍💻 About Me
+<img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" alt="Gengar Sprite" width="50" />
+
+### 👩‍💻 About Me  
 
 * 💼 **Software Developer** @ **Gruppo SINAPSI Srl**
 * 📚 **M.Sc. Student in Computer Science** @ University of Parma
@@ -22,7 +24,7 @@
 
 <div align="center">
   
-  <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" alt="Gengar Sprite" width="50" />
+  
   
   <br/>
 
