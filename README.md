@@ -12,7 +12,12 @@
 
 <br/>
 
+
+<div align="end">
+
 <img src="https://projectpokemon.org/images/normal-sprite/gengar.gif" alt="Gengar Sprite" width="50" />
+
+</div>
 
 ### 👩‍💻 About Me  
 
