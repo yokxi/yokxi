@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Aurora!;Software+Developer;M.Sc.+Student+in+Computer+Science;Passionate+about+Full+Stack+Dev" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/yokxi/yokxi/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
 </div>
 
 <br/>
