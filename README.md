@@ -17,7 +17,7 @@
 
 ### About Me  
 
-* 💼 **Software Developer** @ **Gruppo SINAPSI Srl**
+* 💼 **Software Developer** @ **ISA Informatica**
 * 📚 **M.Sc. Student in Computer Science** @ University of Parma
 * 🎓 **B.Sc. in Computer Science** @ University of Parma
 
