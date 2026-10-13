@@ -17,8 +17,8 @@
 
 ### About Me  
 
-* 💼 **Software Developer** @ **ISA Informatica**
-* 📚 **M.Sc. Student in Computer Science** @ University of Parma
+* 💼 **Software & AI Developer** @ **ISA Informatica**
+* 🎓 **M.Sc. in Computer Science & AI** @ University of Parma
 * 🎓 **B.Sc. in Computer Science** @ University of Parma
 
 ---
